@@ -9,16 +9,16 @@
 <p align="center"> 在校大学生，CSDN博客之星，新晋视频up主 🎉 </p>  
 <p align="center"> 就读于某双非高校，精通Linux操作系统🐧，擅长C/C++、Python等，在学Java和前端🎨   </p>
 
-<p align="left"> I am a college student. I love learning, programming and technology.   </p>
-<p align="left"> I am here to record my learning process and some small projects I have developed. I am skilled, but I have always been crazy about it and fascinated by it. I also hope to meet the next excellent person, get to know more about it, discuss and research technologies together.   </p>
-<p align="left"> Welcome to experience my open source project, any questions or Suggestions are welcome to communicate with me. Accept criticism, on the premise of keeping hairline efforts to promote technology.  </p>
+<p align="left"> I am a university student. I love learning, programming and sharing.   </p>
+<p align="left"> I am here to record my learning process and some small projects I have developed. My skills are so poor, but I have always been crazy about it and fascinated by it. I also hope to meet the next excellent person, get to know more about it, discuss and research technologies together.   </p>
+<p align="left"> Welcome to experience my open source project, any questions or suggestions are welcome to communicate with me. Accept criticism, on the premise of keeping hairline efforts to promote technology.  </p>
 <p align="left"> The most important thing is to be happy.  </p>
 
 
 Hello 👋 <a title="Hits" target="_blank" href="https://github.com/OriginalCoder0/hits"><img src="https://hits.b3log.org/OriginalCoder0/hits.svg"></a>
 
 
-<table align="center"><tr>
+<table align="center">
 <td valign="top" width="50%">
 
 ### 我的博客
