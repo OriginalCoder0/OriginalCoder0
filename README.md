@@ -6,8 +6,9 @@
 
 
 
-<p align="center"> 在校大学生，CSDN博客之星，新晋视频up主 🎉 </p>  
-<p align="center"> 就读于某双非高校，精通Linux操作系统🐧，擅长C/C++、Python等，在学Java和前端🎨   </p>
+<p align="center"> 在校大学生，CSDN博客之星🎉 </p>  
+<p align="center"> 就读于某双非高校，精通Linux操作系统🐧，擅长Java、HTML/CSS/JavaScript、C/C++、Python等🎨   </p>
+<p align="center"> 目前掌握的技术栈主要有JavaEE基础、Spring/SpringMVC、SpringBoot、Mybatis、Jsp、Servlet、Vue等  </p>
 
 <p align="left"> I am a university student. I love learning, programming and sharing.   </p>
 <p align="left"> I am here to record my learning process and some small projects I have developed. My skills are so poor, but I have always been crazy about it and fascinated by it. I also hope to meet the next excellent person, get to know more about it, discuss and research technologies together.   </p>
